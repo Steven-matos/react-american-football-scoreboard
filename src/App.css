@@ -120,3 +120,33 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.quarterbtn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+
+.quarterbtns {
+  margin: 0 .5rem;
+  font-size: 1.3rem;
+}
+
+.downbtn {
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem;
+  border-color: black;
+}
+
+.downbtns {
+  margin: 0 .5rem;
+  font-size: 1.3rem;
+}
+
+.down__title,
+.toGo__title,
+.ballOn__title,
+.quarter__title {
+  margin-top: 2rem;
+}
